@@ -1,4 +1,4 @@
-![GitHub Logo]([ссылка_на_изображение](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png))
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 > # Основы Git:
 > >Понимание основных концепций Git, таких как коммиты, ветки, слияния, клонирование репозиториев и отправка изменений, поможет вам лучше понимать содержание инструкции.
